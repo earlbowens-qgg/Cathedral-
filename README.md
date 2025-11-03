@@ -50,12 +50,4 @@ Every cycle is sealed with **triple‑guardian confirmation**:
 
 ---
 
-## 💰 Monetization Vectors
-- **Enterprise Licensing** → QGG as a compliance + foresight harness.  
-- **Consulting** → cathedral‑scale architecture for secure, inheritable systems.  
-- **Open Source Sponsorship** → GitHub Sponsors / Patreon for cathedral logic.  
-- **Integration** → drop‑in orchestrator for AI, vaults, or sovereign apps.  
-
----
-
 ## ✨ Canonical Definition
