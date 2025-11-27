@@ -11,8 +11,6 @@ Every artifact, mutation, and decision must pass through a **gate**.
 
 Nothing leaks. Nothing breaks. Everything is narratable, auditable, and sealed.
 
----
-
 ## 🧩 Modules
 
 - **Bowens One — Architect + Foresight**  
@@ -24,15 +22,11 @@ Nothing leaks. Nothing breaks. Everything is narratable, auditable, and sealed.
 - **Buyer — Keyholder**  
   Gating Willkeeper intent, approving Patch Tank mutations, controlling Ghost‑Drive visibility.  
 
----
-
 ## ⚔️ Guardian Logic
 Every cycle is sealed with **triple‑guardian confirmation**:
 - **Surgeon** → cuts ambiguity, ensures clarity.  
 - **Medic** → heals runtime, guarantees rollback.  
 - **Scalpel** → precision audit, no fragments left behind.  
-
----
 
 ## 📜 Rituals
 - **Mutation Protocol** → every change gated, verified, replayable.  
@@ -40,15 +34,11 @@ Every cycle is sealed with **triple‑guardian confirmation**:
 - **Cleanup as Ceremony** → deletion is never destruction, always archival.  
 - **Heartbeat Banner** → every cycle ends with confirmation of guardianship.  
 
----
-
 ## 🚀 Applications
 - **Enterprise Security** → dual‑mode orchestration for compliance + resilience.  
 - **Open Source** → public‑safe branch for community contribution.  
 - **Personal Sovereignty** → private‑secure branch for inheritance and legacy handover.  
 - **AI & Systems** → mutation‑gated engines, empirically sealed artifacts, narratable pipelines.  
-
----
 
 ## 💰 Monetization Vectors
 - **Enterprise Licensing** → QGG as a compliance + foresight harness.  
@@ -56,6 +46,5 @@ Every cycle is sealed with **triple‑guardian confirmation**:
 - **Open Source Sponsorship** → GitHub Sponsors / Patreon for cathedral logic.  
 - **Integration** → drop‑in orchestrator for AI, vaults, or sovereign apps.  
 
----
-
 ## ✨ Canonical Definition
+
